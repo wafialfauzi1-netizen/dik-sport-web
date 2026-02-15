@@ -1,0 +1,6 @@
+cd "c:/Users/musti/Vscode Project/dik_sport_web"
+git init
+git add .
+git commit -m "Initial commit - Dik Sport Website"
+git remote add origin https://github.com/username/dik-sport-web.git
+git push -u origin main
